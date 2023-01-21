@@ -1,0 +1,32 @@
+{
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "idf.adapterTargetName": "esp32s3",
+    "idf.customExtraPaths": "/home/rayjin/software/espidf/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/bin:/home/rayjin/software/espidf/.espressif/tools/xtensa-esp32s2-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32s2-elf/bin:/home/rayjin/software/espidf/.espressif/tools/xtensa-esp32s3-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32s3-elf/bin:/home/rayjin/software/espidf/.espressif/tools/riscv32-esp-elf/esp-2021r2-patch5-8.4.0/riscv32-esp-elf/bin:/home/rayjin/software/espidf/.espressif/tools/esp32ulp-elf/2.35_20220830/esp32ulp-elf/bin:/home/rayjin/software/espidf/.espressif/tools/openocd-esp32/v0.11.0-esp32-20220706/openocd-esp32/bin",
+    "idf.customExtraVars": "{\"OPENOCD_SCRIPTS\":\"/home/rayjin/software/espidf/.espressif/tools/openocd-esp32/v0.11.0-esp32-20220706/openocd-esp32/share/openocd/scripts\"}",
+    "idf.espIdfPath": "/home/rayjin/software/espidf/esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-builtin.cfg"
+    ],
+    "idf.pythonBinPath": "/home/rayjin/software/espidf/.espressif/python_env/idf4.4_py3.8_env/bin/python",
+    "idf.toolsPath": "/home/rayjin/software/espidf/.espressif",
+    "files.associations": {
+        "tinyusb.h": "c",
+        "tusb_config.h": "c",
+        "tusb_option.h": "c",
+        "tinyusb_types.h": "c",
+        "tusb.h": "c",
+        "usb_hal.h": "c",
+        "task.h": "c",
+        "usb_periph.h": "c",
+        "freertos.h": "c",
+        "periph_ctrl.h": "c",
+        "dap.h": "c",
+        "*.inc": "c",
+        "sdkconfig.h": "c",
+        "dap_config.h": "c",
+        "*.ipp": "cpp",
+        "dapinterface.h": "c"
+    },
+    "idf.port": "/dev/ttyACM0",
+    "idf.flashType": "UART"
+}
